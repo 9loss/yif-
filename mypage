@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="yif.css">
+    <title>Document</title>
+</head>
+
+<body>
+<header>
+    <h1>就活戦闘力</h1>
+ <div class="header-content">
+    <ul>
+
+            <li><img src="sunny.png" ></li>
+            <li><a href="yifmypage.html">mypage</a></li>
+        </ul>
+    </div>
+</header>
+<main>
+    <h2>My Page</h2>
+    <h3>
+        <ul>
+        <li><a href="es.html">ESを書いた数</a></li>
+
+        <li><a href="mensetsu.html">面接を受けた数</a></li>
+        </ul>
+        <hr>
+    </h3>
+</main>
+
+<footer>
+    <div class="footer-list"> 
+    <ul>
+          <li><a href="お問い合わせ.html">お問い合わせ</a></li>
+              <li><a href="利用規約.html">利用規約</a></li>
+          <li>FAQ・利用ガイド</li>
+    </ul>
+    </div>
+</footer>
+
+</body> 
+</html>
